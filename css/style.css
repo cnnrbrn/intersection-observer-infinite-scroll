@@ -1,0 +1,17 @@
+body {
+	background: #ebebeb;
+}
+
+button.load-more {
+	display: none;
+}
+
+.auction {
+	padding: 2rem;
+	background: white;
+	margin-bottom: 1rem;
+}
+
+.observer {
+	height: 50px;
+}
